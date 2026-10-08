@@ -1,6 +1,6 @@
 
 function openmenu() {
-  document.body.classList += "menu__open"
+  document.body.classList += "menu--open"
 }
 
 function closemenu() {
